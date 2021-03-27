@@ -16,7 +16,7 @@ Compile.command is not needed
 Compile.command is there just to build the shared library using my c files so that I don't have to type it out everytime
 
 ### History on how this came about
-Roughly 2 Months back I made this Game with the files in the Old folder but it was very flawed and still quite slow.
+Roughly 2 Months back I made this Game with the files in the Old folder but it was very flawed and still quite slow.\n
 I was just very bad at Othello so I wanted to know if it was a solved game.
 I already mapped out quite a few games on my own like tic tac toe, chopsticks and the 4-in-a-row gravity game(Connect 4) so I wanted to know.
 Turns out it wasn't for the 8x8 version so I decided with the improvements in technology, I could solve it.
