@@ -1,6 +1,11 @@
 # Othello
 Othello/Reversi Game made in C and run in python cause my mac just can't display graphics in c++
 
+# Optimisations
+#### 1. I stored the board as a binary number
+- The board is made of a mask representing all pieces on the board and 
+- a current_position representing the current player's pieces.
+
 ## Thinking about using this yourself?
 You only need to download c, python 
 and on top of that ctypes on python.
